@@ -11,7 +11,8 @@ Ubuntu packages I installed to make the template work:
 * `texlive-latex-extra`
 * `texlive-latex-recommended`
 
-See [kjhealy/pandoc-templates] for another nice collection.
+See [claes/pandoc-templates] and [kjhealy/pandoc-templates] for other nice collections.
 
+[claes/pandoc-templates]: http://github.com/claes/pandoc-templates
 [kjhealy/pandoc-templates]: http://github.com/kjhealy/pandoc-templates
 [Pandoc]: http://johnmacfarlane.net/pandoc/
